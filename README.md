@@ -1,6 +1,6 @@
 # BalaStudio pour Windows
 
-[Télécharger BalaStudio 0.9.0-alpha.3](https://github.com/ccbosch/balastudio-releases/releases/download/v0.9.0-alpha.3/BalaStudio-0.9.0-alpha.3-windows-x64-setup.exe) — environ 152 Mo.
+[Télécharger BalaStudio 0.9.0-alpha.6](https://github.com/ccbosch/balastudio-releases/releases/download/v0.9.0-alpha.6/BalaStudio-0.9.0-alpha.6-windows-x64-setup.exe) — environ 150 Mo.
 
 [Voir toutes les versions](https://github.com/ccbosch/balastudio-releases/releases). Téléchargement sans compte GitHub.
 
@@ -14,7 +14,7 @@
 
 ## Version de recette
 
-Cette préversion n’est pas signée. L’installation automatique des mises à jour est désactivée ; utiliser le téléchargement manuel.
+Cette préversion n’est pas signée. Les nouvelles versions sont détectées au démarrage et toutes les quatre heures ; leur installateur se télécharge manuellement. Fermez le Studio avant de l’exécuter. Les dossiers, médias, réglages et clés sont conservés.
 
 Aucune installation séparée d’Electron, Node ou npm n’est nécessaire. Les dossiers et les clés IA sont conservés sur le poste. Les fonctions locales sont utilisables sans connexion Balanima ; l’accès aux ressources partagées exige une connexion et les droits correspondants. Aucun compte ou jeton GitHub n’est demandé par la version actuelle.
 
